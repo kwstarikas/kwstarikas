@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kwstarikas
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning complex analysis
+- 👀 I’m interested in IT and security :)
+- 🌱 I’m currently looking for work!
 - 💞️ I’m looking to collaborate on anything at the moment :P
-- 📫 email loukasmerkouris@hotmail.com
+- 📫 email loukasmerkouris@gmail.com
 
 <!---
 kwstarikas/kwstarikas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
