@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @kwstarikas
-- 👀 I’m interested in IT and security :)
-- 🌱 I’m currently looking for work!
 - 📫 email loukasmerkouris@hotmail.com
 
 <!---
